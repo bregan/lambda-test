@@ -1,0 +1,11 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "Testing Lambda-local",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
